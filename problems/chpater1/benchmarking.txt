@@ -1,0 +1,4 @@
+ Case  Sice Based (s)  Index Based (s)  Find Method Based (s)  Slice/Index ratio  Find/Index ratio
+0  Early exit (dup at start)        0.000012         0.000005               0.000006           2.238731          1.201006
+1         Mid exit (dup mid)        0.000006         0.000005               0.000003           1.321187          0.550968
+2    Worst case (all unique)       13.807544        37.018264               0.023600           0.372993          0.000638
